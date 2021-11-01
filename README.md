@@ -2,7 +2,7 @@
 -Contains frequently asked coding problems in an interview\
 -Difficulty ranging from most Basic to Hard\
 -Covering problems on Various topics of Data Structures and algorithms\
--Programming Language : JAVA\
+-Programming Language : JAVA
 
 Topics:
       1.Strings
